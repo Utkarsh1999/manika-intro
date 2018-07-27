@@ -64,7 +64,7 @@ var resolver = {
 };
 
 
-var strings = ['Hey there I m MANIKA.', 'I am cute , Helping , pdhaku and ya m bigboss dekhti hu. ', 'Single don\'t know why but ya single hu.', 'That\'s all', 'GoodBye ', 'Tata', 'see you again.', 'FROM', 'Utkarsh', 'FOR ', 'MANIKA - ek choti si cute si bchhi.  :-) ', '......'];
+var strings = ['some text.', 'some more text ', 'again some more text.'];
 
 var counter = 0;
 
